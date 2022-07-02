@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Aravind Raj A</h1>
 <h3 align="center">A passionate Engineer | Learner</h3>
 
-- 📫 How to reach me **aaravindraj99@gmail.com**
+- 🌱 I’m currently learning New Things
+
+- 👯 I’m looking to collaborate on 
 
 - ⚡ Fun fact **I love to Travel ,Watch Movies and listen to music**
 
