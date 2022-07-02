@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on new ideas
 
-- ⚡ Fun fact **I love to Travel ,Watch Movies and listen to music**
+- ⚡ Fun fact **I love to Travel ,Watch Movies and listen to Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
