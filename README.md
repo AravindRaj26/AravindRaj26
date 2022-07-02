@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Aravind Raj A</h1>
+<h1 align="center">Hello, I'm Aravind Raj A</h1>
 <h3 align="center">A passionate Engineer | Learner</h3>
 
 - 🌱 I’m currently learning New Things
 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on new ideas
 
 - ⚡ Fun fact **I love to Travel ,Watch Movies and listen to music**
 
