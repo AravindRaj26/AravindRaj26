@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aravind Raj A</h1>
-<h3 align="center">A passionate Engineer |Learner</h3>
+<h3 align="center">A passionate Engineer | Learner</h3>
 
 - 📫 How to reach me **aaravindraj99@gmail.com**
 
